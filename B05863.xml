@@ -1,0 +1,339 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The saints jubilee, or The fullness of joy to the sweet singers of Sion.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05863</idno>
+            <idno type="OCLC"> 12440028</idno>
+            <idno type="STC">Wing S361</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[197]</idno>
+            <idno type="STC">ESTC R18876</idno>
+            <idno type="EEBO-CITATION">99883122</idno>
+            <idno type="PROQUEST">ocm99883122</idno>
+            <idno type="VID">182866</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05863)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182866)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:2[198])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The saints jubilee, or The fullness of joy to the sweet singers of Sion.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "VVhen first Petitions newly pen'd did fly ..."</note>
+                  <note>At end of text: Faelix quem faciunt aliena Pericula cautum.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182866:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <head>The SAINTS Jubilee, OR The fullneſs of Joy to the ſweet Singers of <hi>Sion.</hi>
+            </head>
+            <epigraph>
+               <q>—olim haec meminiſſe juvabit.</q>
+            </epigraph>
+            <lg>
+               <l>WHen firſt Petitions newly pen'd did fly,</l>
+               <l>And Loyal <hi>strafford,</hi> head did bleedingly.</l>
+               <l>To ſatisfie the Peoples Cruelty,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Our joys did then appear.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When pious <hi>Laud</hi> unto the Tower was ſent,</l>
+               <l>And Commons Houſe the King did circumvent,</l>
+               <l>Obtaining a <hi>Triennial Parliament,</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Our joys did then increaſe.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When Commons puſh'd the Biſhops off their ſeats</l>
+               <l>And by their Artifice and juggling feats,</l>
+               <l>Fill'd up the Houſe with pious frauds and cheats.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Our joys,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When <hi>Pym</hi> with many more as good as he,</l>
+               <l>Made us deny our <hi>Antient Liberty,</hi>
+               </l>
+               <l>And bid defiance to his <hi>Majesty,</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Our joys,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When Plotting <hi>Presbyter</hi> preach'd in the Nation,</l>
+               <l>And <hi>ſnuffling through the noſe</hi> was all in faſhion,</l>
+               <l>And <hi>Frenzy</hi> was miſta'ne for <hi>Inſpiration,</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Our joys,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When <hi>zealous Brethren</hi> gave their Silver ware,</l>
+               <l>And <hi>holy Siſters</hi> all that they could ſhare,</l>
+               <l>And all to fight the <hi>Beaſt</hi> call'd <hi>Common-Prayer,</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Our joys,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When it was voted for a fooliſh ſtory,</l>
+               <l>And <hi>Non-conformiſts</hi> (zealous of God's glory)</l>
+               <l>Did all <hi>conform</hi> unto the <hi>Directory,</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Our joys,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When <hi>Cromwel</hi> led his men with canting words</l>
+               <l>
+                  <hi>Fight, Saints, the Battel, now it is the Lords,</hi>
+               </l>
+               <l>Your weapons are long Prayers, but longer Swords,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Our joys,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When from his Offices at firſt but ſmall,</l>
+               <l>Out witting <hi>Eſſex, Fairfax,</hi> and 'em all,</l>
+               <l>He did advance himſelf to <hi>General;</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Our joys,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When <hi>Cobler-Hewſon</hi> ran beyond his <hi>Laſt,</hi>
+               </l>
+               <l>Firſt clean'd his waxen thumbs, then buckled faſt</l>
+               <l>His Sword about his Sanctified Waſt.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Our joys,</hi> &amp;c,</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When Crop-ear'd <hi>Peters</hi> firſt ſet up to preach,</l>
+               <l>Whoſe Lungs to <hi>Twentiethly Beloved</hi> could reach</l>
+               <l>Did from his <hi>Tub</hi> the Factious people teach,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Our joys,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When the debate of <hi>No Lords,</hi> firſt aroſe,</l>
+               <l>
+                  <hi>No Houſe of Peers:</hi> No, we will have no Laws,</l>
+               <l>Our <hi>Magna Charta</hi> is the <hi>Good old Cauſe.</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Our joys,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When we our <hi>Antient Liberties</hi> forſook.</l>
+               <l>And made the <hi>Covenant</hi> our <hi>Statute-Book;</hi>
+               </l>
+               <l>Our Oracles were <hi>Bradſhaw, Ireton, Cook.</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Our joys,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When Commons (they who durſt do any thing</l>
+               <l>Becauſe the Lords ſubmitted) did begin,</l>
+               <l>Bold deſperate Votes, and voted out the <hi>King.</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Our joys,</hi> &amp;c,</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When <hi>Vote</hi> for <hi>Non-addreſſes</hi> made no ſtay,</l>
+               <l>But moſt Victoriouſly did make its way,</l>
+               <l>The <hi>Crown</hi> was ſtak'd for which the <hi>Houſe</hi> di<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>  play</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Our joys,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Another Vote!</hi> A new unheard of Court,</l>
+               <l>
+                  <hi>High Court of Juſtice!</hi> All the <hi>Houſe</hi> was for't;</l>
+               <l>For here they knew would be the greateſt ſpor</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Our joys,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Here was the <hi>Head</hi> a ſecond Prize lay'd down,</l>
+               <l>
+                  <hi>Bradſhaw</hi> ſoon won't and took it up; as ſoon,</l>
+               <l>We had <hi>five hundred Heads inſtead of one.</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Our joys,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When <hi>Toleration</hi> for all Sects began,</l>
+               <l>And <hi>Conſcience</hi> was a <hi>Slave</hi> to ev'ry man,</l>
+               <l>To <hi>Quaker, Independent, Puritan,</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Our joys,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When leave was given to act all <hi>Villany,</hi>
+               </l>
+               <l>I'de kill my friend, another ſhould rob me,</l>
+               <l>And neither of us ever queſtioned be.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Our joys,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When there could be <hi>no breach of Priviledge,</hi>
+               </l>
+               <l>When <hi>Saints</hi> could ſin by <hi>Licence,</hi> and alledge,</l>
+               <l>That <hi>Robbing Churches</hi> was no <hi>Sacriledge.</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Our joys were then at fu<gap reason="illegible: page cropped" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi>
+                  </l>
+               </lg>
+            </lg>
+            <epigraph>
+               <q>
+                  <hi>Faelix quem faciunt aliena Pericula cautum.</hi>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+   </text>
+</TEI>
